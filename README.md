@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sohamplify
 - 👀 I’m interested in ideas in general 
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
+- 🌱 I’m currently learning Generic Programming
+- 💞️ I’m looking to collaborate on Python-related projects.
 - 📫 How to reach me @sohmxm on Twitter
 
 <!---
